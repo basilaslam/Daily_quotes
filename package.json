@@ -1,0 +1,11 @@
+{
+  "name": "SideProjects",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "twitter-api-v2": "^1.12.2"
+  }
+}
