@@ -1,4 +1,5 @@
 
+console.log('Work Started')
 function tweeter(){
     const rwClient = require('./client.js')
 const axios = require('axios').default
