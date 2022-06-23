@@ -30,7 +30,7 @@ var quote = ''
 function checktime(){
     let time = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
 
-    if(time == '18:00'){
+    if(time == '08:00'){
         tweeter()
     }else{
         setTimeout(checktime,30000)
